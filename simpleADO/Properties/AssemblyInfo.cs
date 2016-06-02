@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("simpleADO")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Comcast Cable")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("simpleADO")]
-[assembly: AssemblyCopyright("Copyright © Comcast Cable 2015")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
